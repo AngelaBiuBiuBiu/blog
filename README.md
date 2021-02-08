@@ -1,2 +1,2 @@
 # blog
-study note
+个人学习技术博客
